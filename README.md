@@ -27,3 +27,13 @@ This is a better way to be accountable to the data journey and it will also help
 * Today I learnt SQL from the start from <a href="https://mode.com/sql-tutorial/"> Mode Analytics</a>, a very great tutorial for someone who wants to brushup their skills. I worked on Use cases in figuring out why was there an drop in engagement from the user end, had to improve a search functionality for a teams next develping cycle and also had to validate the A/B test for the existing products to improve it's user experince. 
 
 ### Day 2 
+* I started with the NoSQL database MongoDB from Coursera - <a href="https://www.coursera.org/learn/introduction-mongodb?="> Introduction to MongoDB</a>, a great course to learn and understand the concepts.
+* **NoSQL** - is based on non-relational database management systems. This contains large amounts of unstructured data, such as text from emails, customer surveys, or the data collected by websites and all this information are in the form of unorganized data. So to store these kinds of data we use a NoSQL database system.
+
+**Advantages**
+* Can handle large amounts of data.
+* Different types of data can be stored and no limit to storing it.
+* Scaling is easy
+
+### Day 3
+* Today I completed the Coursera course from MongoDB, worked on some use cases and problems. 
