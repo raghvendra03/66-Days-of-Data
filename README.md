@@ -37,3 +37,12 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 3
 * Today I completed the Coursera course from MongoDB, worked on some use cases and problems. 
+
+
+### Day 4
+* I worked on few problems from Leetcode and practice a lot of problems. 
+* I also started writing a Blog post about what I have lerned. I am beginner in content or technical writing so might take some time to come up with the post. I have also decided to write Blog post for every week starting from this week until the end of 66 days of data challange. This will keep me accountable and motivated to come up with different topics to write a Blog. The Blog will be SQL Vs NoSQL their Advantages and Applications and I will be posting this to my Medium account.
+
+### Day 5
+* Today again I solved few problems from Leetcode and also on Hackerrank. 
+* Blog is halfway through the point now, I know it is talking some time, but this is the 1st time I will be writing so many words and explaining it in simple terms. Let's see how this pans out.  
