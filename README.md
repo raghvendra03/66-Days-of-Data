@@ -46,3 +46,12 @@ This is a better way to be accountable to the data journey and it will also help
 ### Day 5
 * Today again I solved few problems from Leetcode and also on Hackerrank. 
 * Blog is halfway through the point now, I know it is talking some time, but this is the 1st time I will be writing so many words and explaining it in simple terms. Let's see how this pans out.  
+
+### Day 6
+
+
+### Day 7
+
+
+### Day 8
+
