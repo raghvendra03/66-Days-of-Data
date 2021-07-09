@@ -6,7 +6,9 @@
 1. Summary
 2. Books 
 3. Courses 
-4. My Journey 
+4. Youtube Playlists 
+5. Exercise 
+6. My Journey 
 
 ## Summary 
 I have commited to a 66 days of data challange which was initiated by <a href="https://www.twitter.com/KenJee_DS/"> Ken Jee</a> a Data Scientiest and a Youtuber, Daily I will be updating the details of the things I have learned, books I have read, courses I have completed & the projects which I will be doing in the course of 66 days. 
@@ -14,11 +16,14 @@ I have commited to a 66 days of data challange which was initiated by <a href="h
 This is a better way to be accountable to the data journey and it will also help me build a daily coding and learning habit. 
 
 ## Books
-(To be read....)
+1. Mathematics - <a href="https://mml-book.github.io/"> Mathematics for Machine Learning</a>
 
 ## Courses
 1. SQL by <a href="https://mode.com/sql-tutorial/"> Mode Analytics</a> 
 2. NoSQL by Coursera -  <a href="https://www.coursera.org/learn/introduction-mongodb?="> Introduction to MongoDB</a> 
+
+## Youtube Playlists
+1. Data Structure & Algorithms - <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12"> By Codebasics</a> 
 
 ## My Journey of 66 Days of Data 
 
@@ -38,7 +43,6 @@ This is a better way to be accountable to the data journey and it will also help
 ### Day 3
 * Today I completed the Coursera course from MongoDB, worked on some use cases and problems. 
 
-
 ### Day 4
 * I worked on few problems from Leetcode and practice a lot of problems. 
 * I also started writing a Blog post about what I have lerned. I am beginner in content or technical writing so might take some time to come up with the post. I have also decided to write Blog post for every week starting from this week until the end of 66 days of data challange. This will keep me accountable and motivated to come up with different topics to write a Blog. The Blog will be SQL Vs NoSQL their Advantages and Applications and I will be posting this to my Medium account.
@@ -48,10 +52,16 @@ This is a better way to be accountable to the data journey and it will also help
 * Blog is halfway through the point now, I know it is talking some time, but this is the 1st time I will be writing so many words and explaining it in simple terms. Let's see how this pans out.  
 
 ### Day 6
-
+* Today spent some time on Data structures & Algorithms and @codebasicshub has a really good playlist and he has explained it in simple terms. 
 
 ### Day 7
-
+* Today spent some time on DS & Algo problems and was working on #Crackingthecodinginterview, a good book for interviews. Spent some time writing a blog post.
 
 ### Day 8
+* Today was I spent some time working on #Leetcode problems. Refreshed on some Algorithms
+- Big O Notation 
+- Search Algorithm
+- Sorting Algorithm
 
+### Day 9
+* Today I spent some time reading the book Mathematics for #MachineLearning by Marc Peter Deisenroth and brushed off some Linear Algebra Skills - Matrices, Vector Spaces, Linear Mappings & worked on an exercise
