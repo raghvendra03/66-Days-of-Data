@@ -65,3 +65,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 9
 * Today I spent some time reading the book Mathematics for #MachineLearning by Marc Peter Deisenroth and brushed off some Linear Algebra Skills - Matrices, Vector Spaces, Linear Mappings & worked on an exercise
+
+### Day 10
+* It's 10 days of the #66daysofdata and spent some time analyzing of what I have done in the past 10 days and revied some of the concepts(just skimmed through it) and worked on some exercise related to SQL, DS & Algorithm. 
