@@ -21,6 +21,7 @@ This is a better way to be accountable to the data journey and it will also help
 ## Courses
 1. SQL by <a href="https://mode.com/sql-tutorial/"> Mode Analytics</a> 
 2. NoSQL by Coursera -  <a href="https://www.coursera.org/learn/introduction-mongodb?="> Introduction to MongoDB</a> 
+3. Database Management - <a href="https://www.javatpoint.com/dbms-tutorial"> DBMS</a>
 
 ## Youtube Playlists
 1. Data Structure & Algorithms - <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12"> By Codebasics</a> 
@@ -71,3 +72,7 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 11
 * Today spent some time doing exercises on Linear Algebra. Worked on Matrix decomposition and Vector Calculus.
+
+### Day 12
+* Went through some concepts of #Database Management systems with this great website I found out. 
+* Learnt about DBMS Architecture and Data Modeling.
