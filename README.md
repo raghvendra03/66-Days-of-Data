@@ -22,6 +22,7 @@ This is a better way to be accountable to the data journey and it will also help
 1. SQL by <a href="https://mode.com/sql-tutorial/"> Mode Analytics</a> 
 2. NoSQL by Coursera -  <a href="https://www.coursera.org/learn/introduction-mongodb?="> Introduction to MongoDB</a> 
 3. Database Management - <a href="https://www.javatpoint.com/dbms-tutorial"> DBMS</a>
+4. Probability - <a href="https://seeing-theory.brown.edu/index.html"> Seeing Theory</a>
 
 ## Youtube Playlists
 1. Data Structure & Algorithms - <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12"> By Codebasics</a> 
@@ -76,3 +77,12 @@ This is a better way to be accountable to the data journey and it will also help
 ### Day 12
 * Went through some concepts of #Database Management systems with this great website I found out. 
 * Learnt about DBMS Architecture and Data Modeling.
+
+### Day 13
+* Worked on some problems on #Hackerrank. Revised some concepts in Probability with this amazing website - Seeing Theory. 
+
+### Day 14
+* Revised some concepts on Probability such as Random Value, Discrete and Continous Probabilities. Worked on some exercises from the book -Mathematics for Machine Learning. 
+
+### Day 15
+* 
