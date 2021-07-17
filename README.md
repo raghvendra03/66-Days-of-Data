@@ -19,6 +19,7 @@ This is a better way to be accountable to the data journey and it will also help
 
 ## Books
 1. Mathematics - <a href="https://mml-book.github.io/"> Mathematics for Machine Learning</a>
+2. Algorithms - <a href="https://www.amazon.in/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230"> Grokking Algorithms</a>
 
 ## Courses
 1. SQL by <a href="https://mode.com/sql-tutorial/"> Mode Analytics</a> 
