@@ -88,4 +88,10 @@ This is a better way to be accountable to the data journey and it will also help
 * Revised some concepts on Probability such as Random Value, Discrete and Continous Probabilities. Worked on some exercises from the book -Mathematics for Machine Learning. 
 
 ### Day 15
-* 
+* Started reading the Book Grokking Algorithms and worked on some exercise. 
+
+### Day 16
+* Completed 2 chapters of the book Grokking Algorithms and worked on some problems. 
+
+### Day 17
+* Started with Python today revised some concepts and solved some problems on #Hackerrank. Also worked on the blog post & will be posting it tomorrow. Had to post this last week but took some as this is my 1st blog
