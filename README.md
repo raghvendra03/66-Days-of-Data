@@ -26,6 +26,7 @@ This is a better way to be accountable to the data journey and it will also help
 2. NoSQL by Coursera -  <a href="https://www.coursera.org/learn/introduction-mongodb?="> Introduction to MongoDB</a> 
 3. Database Management - <a href="https://www.javatpoint.com/dbms-tutorial"> DBMS</a>
 4. Probability - <a href="https://seeing-theory.brown.edu/index.html"> Seeing Theory</a>
+5. OOPs by Corey schafer - <a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc"> OOPs Playlist </a>
 
 ## Youtube Playlists
 1. Data Structure & Algorithms - <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12"> By Codebasics</a> 
@@ -95,3 +96,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 17
 * Started with Python today revised some concepts and solved some problems on #Hackerrank. Also worked on the blog post & will be posting it tomorrow. Had to post this last week but took some as this is my 1st blog
+
+### Day 18 
+* Spent some time working OOPs for #Python and got this amazing playlist by @CoreyMschafer. Learnt about Classes and Instances, Class Variables & Inheritance. 
