@@ -99,3 +99,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 18 
 * Spent some time working OOPs for #Python and got this amazing playlist by @CoreyMschafer. Learnt about Classes and Instances, Class Variables & Inheritance. 
+
+### Day 19
+*  Today I was reading some of my newsletters and found a great read! System Design for Recommendations and Search by @eugeneyan 
