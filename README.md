@@ -102,3 +102,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 19
 *  Today I was reading some of my newsletters and found a great read! System Design for Recommendations and Search by @eugeneyan 
+
+### Day 20
+* Worked on some #Python problems on Hackerrank. Also read some parts of this amazing book Storytelling with Data by Cole Nussbaumer Knaflic
