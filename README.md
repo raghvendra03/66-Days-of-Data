@@ -105,3 +105,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 20
 * Worked on some #Python problems on Hackerrank. Also read some parts of this amazing book Storytelling with Data by Cole Nussbaumer Knaflic
+
+### Day 21
+* Read a couple of chapters of this book Storytelling with Data and. Started with the Tableau course for Data Science & Business Analytics on @udemy 
