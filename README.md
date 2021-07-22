@@ -108,3 +108,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 21
 * Read a couple of chapters of this book Storytelling with Data and. Started with the Tableau course for Data Science & Business Analytics on @udemy 
+
+### Day 22
+* Today continued some parts of Grokking Algorithms book, learned Recursion, Quicksort, Hash Tables and Breadth-First Search. Worked on some exercise. Also continued with the Tableau course on #udemy 
