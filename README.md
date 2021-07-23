@@ -111,3 +111,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 22
 * Today continued some parts of Grokking Algorithms book, learned Recursion, Quicksort, Hash Tables and Breadth-First Search. Worked on some exercise. Also continued with the Tableau course on #udemy 
+
+### Day 23
+*  Worked on some #Python problems on Hackerrank. Read about continuous, constrained and convex optimization from Mathematics for Machine Learning.
