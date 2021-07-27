@@ -114,3 +114,13 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 23
 *  Worked on some #Python problems on Hackerrank. Read about continuous, constrained and convex optimization from Mathematics for Machine Learning.
+
+### Day 24 - 25 
+* Took 2 days off from work and this challange, wanted to reflect on myself and spend some time with family.
+
+### Day 26
+* I'm back after 2 days off
+* Today I spent some time Tableau course on Udemy. Read this article on #dataviz "What Are Data Visualization Style Guidelines?" by Amy Cesal. 
+
+### Day 27 
+* Today I did some #Python web scraping on Craigslist - job description page with BeautifulSoup. Also completed 3 sections from the Tableau course on Udemy 
