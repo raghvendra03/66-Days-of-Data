@@ -124,3 +124,9 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 27 
 * Today I did some #Python web scraping on Craigslist - job description page with BeautifulSoup. Also completed 3 sections from the Tableau course on Udemy 
+
+### Dat 28
+*
+
+### Day 29
+* Read this article "A Beginners Guide to Scikit-Learn" by @vickdata in @TDataScience. Worked on some Python problems.  
