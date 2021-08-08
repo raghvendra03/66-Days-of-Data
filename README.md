@@ -129,4 +129,7 @@ This is a better way to be accountable to the data journey and it will also help
 *
 
 ### Day 29
-* Read this article "A Beginners Guide to Scikit-Learn" by @vickdata in @TDataScience. Worked on some Python problems.  
+* Read this article "A Beginners Guide to Scikit-Learn" by @vickdata in @TDataScience. Worked on some Python problems. 
+
+### Day 30
+* Started reading this book "Hand on ML with Keras, Tensorflow and Scikit Learn". Worked on some #Python exercises.  
