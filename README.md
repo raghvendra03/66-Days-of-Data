@@ -133,3 +133,9 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 30
 * Started reading this book "Hand on ML with Keras, Tensorflow and Scikit Learn". Worked on some #Python exercises.  
+
+### Day 31
+*
+
+### Day 32
+*
