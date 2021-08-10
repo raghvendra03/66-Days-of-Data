@@ -139,3 +139,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 32
 *
+
+### Day 33
+* Started reading the book The Art of Data Science by Roger Peng. It talks about exploring, modelling, interpreting and communicating your data well. Completed day 6 & 7 of #30daysofml
