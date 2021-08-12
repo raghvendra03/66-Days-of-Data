@@ -146,3 +146,6 @@ This is a better way to be accountable to the data journey and it will also help
 ### Day 34 
 * Today continued reading this book The Art of Data Science & learnt about Formal Modeling, it is useful to represent a model using mathematical notation to understand it.
 * Worked on python exercise from @exercism_io https://exercism.io/my/tracks/python
+
+### Day 35
+* Read about Inference and prediction modelling and how it can be used for modelling strategy from the book The art of Data Science. Completed days 8 & 9 of #30daysofml with Intro to ML.
