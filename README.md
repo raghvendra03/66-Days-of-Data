@@ -149,3 +149,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 35
 * Read about Inference and prediction modelling and how it can be used for modelling strategy from the book The art of Data Science. Completed days 8 & 9 of #30daysofml with Intro to ML.
+
+### Day 36
+* Today spent some time on python exercises on Leetcode. Watched this video on Exploratory Data Analysis in Python using pandas by @thedataprof 
