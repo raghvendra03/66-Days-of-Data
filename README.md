@@ -152,3 +152,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 36
 * Today spent some time on python exercises on Leetcode. Watched this video on Exploratory Data Analysis in Python using pandas by @thedataprof 
+
+### Day 37
+* Performed EDA on a banking loan dataset to determine if an individual will fully repay or debit their loan. Completed days 10 &11 of #30daysofML 
