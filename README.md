@@ -155,3 +155,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 37
 * Performed EDA on a banking loan dataset to determine if an individual will fully repay or debit their loan. Completed days 10 &11 of #30daysofML 
+
+### Day 38
+* Read a couple of chapters from Storytelling from Data. Spent some time working on data science use cases. Completed days 12 & 13 of #30daysofML
