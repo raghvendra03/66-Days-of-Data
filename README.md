@@ -1,6 +1,5 @@
 # Journey of 66 Days of Data
-
-Learning continues.......
+Documenting my journey here and tweeting about it on Twitter, check it out - <a href="https://twitter.com/RaghavendraPMur/"> Raghvendra Murnal</a>
 
 ![doctype-hi-res](https://user-images.githubusercontent.com/31177901/124361122-1cdf8280-dc4b-11eb-827d-e7171574422a.jpg)
 
