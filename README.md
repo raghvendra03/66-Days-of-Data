@@ -160,3 +160,9 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 39
 * Read this article - "How to Master Scikit-learn for Data Science" a step-by-step guide to understand the basis of Scikit-learn
+
+### Day 40
+*
+
+### Day 41
+* Read the 2nd chapter from "Hand on ML with Keras, Tensorflow and Scikit Learn" which gives a basic understanding of working with datasets end to end. 
