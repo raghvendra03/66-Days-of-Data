@@ -166,3 +166,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 41
 * Read the 2nd chapter from "Hand on ML with Keras, Tensorflow and Scikit Learn" which gives a basic understanding of working with datasets end to end. 
+
+### Day 42
+* Watched a video about "Web Scraping with Python from Scratch" with the help of BeautifulSoup libraries. It was nicely explained by @justmarkham. 
