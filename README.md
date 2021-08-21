@@ -169,3 +169,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 42
 * Watched a video about "Web Scraping with Python from Scratch" with the help of BeautifulSoup libraries. It was nicely explained by @justmarkham. 
+
+### Day 43
+* Today I worked on scraping examples with the help of the BeautifulSoup library. Scraped the product lists of book titles of eBay. I Learnt how to parse HTML code. 
