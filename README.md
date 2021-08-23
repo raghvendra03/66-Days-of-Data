@@ -172,3 +172,9 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 43
 * Today I worked on scraping examples with the help of the BeautifulSoup library. Scraped the product lists of book titles of eBay. I Learnt how to parse HTML code. 
+
+### Day 44
+*Took a Day off*
+
+### Day 45
+* Today I learnt Version control Git from this amazing free resource Git Tower. It is a very simple and easy to understand guide to learn the basics of Git. 
