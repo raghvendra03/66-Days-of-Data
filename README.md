@@ -178,3 +178,7 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 45
 * Today I learnt Version control Git from this amazing free resource Git Tower. It is a very simple and easy to understand guide to learn the basics of Git. 
+
+### Day 46
+* Today had a lot of work from the office but was able to get some time and work on some #python problems on HackerRank.
+
