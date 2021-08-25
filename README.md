@@ -182,3 +182,5 @@ This is a better way to be accountable to the data journey and it will also help
 ### Day 46
 * Today had a lot of work from the office but was able to get some time and work on some #python problems on HackerRank.
 
+### Day 47
+*  Continued learning some chapters from Mathematics for Machine Learning and worked on a couple of exercises. Learnt about Data Models, Parameter Estimation, Probabilistic Modeling and Inference & Model Selection.
