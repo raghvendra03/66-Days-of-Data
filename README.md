@@ -184,3 +184,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 47
 *  Continued learning some chapters from Mathematics for Machine Learning and worked on a couple of exercises. Learnt about Data Models, Parameter Estimation, Probabilistic Modeling and Inference & Model Selection.
+
+### Day 48-50
+* Have been working on Kaggle 30 Days ML competition.
