@@ -187,3 +187,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 48-50
 * Have been working on Kaggle 30 Days ML competition.
+
+### Day 51-52
+* Worked on some Leetcode problems for SQL & Python. Done reading with the book The Art of #DataScience by Roger Peng. Highly recommend this book, the author has explained the concepts in a unique and easy to understand way.
