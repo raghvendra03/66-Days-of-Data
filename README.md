@@ -190,3 +190,8 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 51-52
 * Worked on some Leetcode problems for SQL & Python. Done reading with the book The Art of #DataScience by Roger Peng. Highly recommend this book, the author has explained the concepts in a unique and easy to understand way.
+
+### Day 53
+
+### Day 54
+* Today I learnt Random Forest with a focus on metrics, loss functions, and overfitting @fastdotai
