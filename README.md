@@ -195,3 +195,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 54
 * Today I learnt Random Forest with a focus on metrics, loss functions, and overfitting @fastdotai
+
+### Day 55-58 
+* I learnt Machine Learning through @fastdotai and completed the remaining part of the series. It is really a great course for learning ML.
