@@ -202,3 +202,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 60
 * Watched this great video on a Data Science career - How to Pivot and Advance Your Data Science Career by Emma Ding. There are pretty useful tips on interviews and how to prepare up for them. 
+
+### Day 61
+* Today continued learning with Database Management System from Java Point. Learnt about Normalization and Transaction Processing
