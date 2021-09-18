@@ -205,3 +205,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 61
 * Today continued learning with Database Management System from Java Point. Learnt about Normalization and Transaction Processing
+
+### Day 62-63
+*  I have completed the Database Management systems with some SQL and applied what I learnt on some Hackerrank problems.
