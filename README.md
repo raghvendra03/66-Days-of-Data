@@ -208,3 +208,9 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 62-63
 *  I have completed the Database Management systems with some SQL and applied what I learnt on some Hackerrank problems.
+
+### Day 64
+*
+
+### Day 65
+* Watched some Feature Engineering videos and learnt how to perform One Hot Encoding for Multi Categorical Variables and other types of Encoding techniques.
