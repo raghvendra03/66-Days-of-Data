@@ -214,3 +214,6 @@ This is a better way to be accountable to the data journey and it will also help
 
 ### Day 65
 * Watched some Feature Engineering videos and learnt how to perform One Hot Encoding for Multi Categorical Variables and other types of Encoding techniques.
+
+### Day 66
+* Completed round 1 of 66 days of data, I had some bumps along the way but finally, it's done. I will be starting 2nd round soon. Learnt Feature Scaling techniques like Normalization & Standardization through working on a dataset.
