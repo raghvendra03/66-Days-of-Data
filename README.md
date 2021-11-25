@@ -1,13 +1,12 @@
 # Journey of 66 Days of Data
-Documenting my journey here and tweeting about it on Twitter, check it out - <a href="https://twitter.com/RaghavendraPMur/"> Raghvendra Murnal</a>
+Documenting my journey and also tweeting about it on Twitter, check it out - <a href="https://twitter.com/RaghavendraPMur/"> Raghvendra Murnal</a>
 
 ## Resources
 1. Summary
 2. Books 
 3. Courses 
 4. Youtube Playlists 
-5. Exercise 
-6. My Journey 
+5. My Journey 
 
 ## Summary 
 I have commited to a 66 days of data challange which was initiated by <a href="https://www.twitter.com/KenJee_DS/"> Ken Jee</a> a Data Scientiest and a Youtuber, Daily I will be updating the details of the things I have learned, books I have read, courses I have completed & the projects which I will be doing in the course of 66 days. 
@@ -216,4 +215,4 @@ This is a better way to be accountable to the data journey and it will also help
 * Watched some Feature Engineering videos and learnt how to perform One Hot Encoding for Multi Categorical Variables and other types of Encoding techniques.
 
 ### Day 66
-* Completed round 1 of 66 days of data, I had some bumps along the way but finally, it's done. I will be starting 2nd round soon. Learnt Feature Scaling techniques like Normalization & Standardization through working on a dataset.
+* I have completed round 1 of 66 days of data, I had some bumps along the way but finally, it's done. I will be starting 2nd round soon. Learnt Feature Scaling techniques like Normalization & Standardization through working on a dataset.
