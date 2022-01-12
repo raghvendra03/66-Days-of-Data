@@ -27,7 +27,7 @@ This is a better way to be accountable to the data journey and it will also help
 ## Youtube Playlists
 1. Data Structure & Algorithms - <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12"> By Codebasics</a> 
 
-## My Journey of 66 Days of Data 
+## My Journey of 66 Days of Data (Round 1)
 
 ### Day 1
 * **SQL** - **Structured Query Language** is a database language, used to update databases, execute queries, highly organized and structured approach to information management. It was designed for relational database management systems. SQL has a variety of functions that allow its users to read, manipulate, and change data but over much larger datasets and on multiple tables at the same time.
